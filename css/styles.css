@@ -22,13 +22,12 @@ body{
     padding: 20px;
     border-radius: 20px;
     color: #ffffff;
-    font-size: 32px;
+    font-size: 26px;
     margin-bottom: 24px;
     letter-spacing: 0.05em;
 }
 .color{
     color:#49a6e9;
-    letter-spacing: 0.05em;
     transition: color 200ms ease-in-out;
 }
 .btn{
