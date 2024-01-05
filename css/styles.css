@@ -10,6 +10,7 @@ body{
     align-items: center;
     background-color: #f1f5f8;
     font-family: 'Oswald', sans-serif;
+    transition: background-color 300ms linear;
     
 
 }
@@ -28,6 +29,7 @@ body{
 .color{
     color:#49a6e9;
     letter-spacing: 0.05em;
+    transition: color 200ms ease-in-out;
 }
 .btn{
     background-color: transparent;

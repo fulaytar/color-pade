@@ -6,6 +6,7 @@ button.addEventListener("click", () => {
     let hexColor = genereteHex();
     document.body.style.backgroundColor = hexColor;
     color.textContent = hexColor;
+    
 })
 
 function genereteHex() {
